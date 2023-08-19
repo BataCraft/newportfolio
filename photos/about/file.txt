@@ -1,0 +1,34 @@
+
+@media screen and (max-width :600px) {
+    /* Services Paragraph*/
+    #Services h2,p,#Services a,.btns button {
+        font-size: 1rem !important ;
+        }
+        #Services img ,h2 span::after{
+            max-width: none!important;}
+            @keyframes fadeInUpBig {
+                0% {
+                    opacity: 0;
+                    transform: translate3d(0, -2000px, 0);
+                }
+            }
+
+        }
+
+
+        /* skills */
+        @media screen and (max-width :600px) {
+            /* Services Paragraph*/
+            #Skills h2,p,#Skills a,.btns button {
+                font-size: 1rem !important ;
+                }
+                #Skills img ,h2 span::after{
+                    max-width: none!important;}
+                    @keyframes fadeInUpBig {
+                        0% {
+                            opacity: 0;
+                            transform: translate3d(0, -2000px, 0);
+                        }
+                    }
+        
+                }
